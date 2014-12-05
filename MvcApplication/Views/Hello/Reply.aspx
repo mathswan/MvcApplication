@@ -6,10 +6,10 @@
 
     <h2>Test sub heading</h2>
 
-    <p>Paragraph</p>
+    <p>Please click the button</p>
 
     <form id="Form1" runat="server">
-        <asp:Button id="Button1" Text="Submit" runat="server" />
+        <asp:Button id="button1" Text="Submit" runat="server" />
     </form>
     
 </asp:Content>
